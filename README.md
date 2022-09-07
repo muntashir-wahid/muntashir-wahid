@@ -47,7 +47,7 @@
 <br />
 <br /> -->
 
----
+<!-- --- -->
 
 <!-- ### 📺 Latest YouTube Videos -->
 
@@ -62,7 +62,7 @@
 
 <!-- ➡️ [more videos...](https://youtube.com/codestackr) -->
 
----
+<!-- --- -->
 
 <!-- ### 📕 Latest Blog Posts -->
 
@@ -77,7 +77,7 @@
 
 <!-- ➡️ [more blog posts...](https://codestackr.com) -->
 
----
+<!-- --- -->
 
 <!-- <details>
   <summary>:zap: Recent GitHub Activity</summary>
@@ -90,7 +90,7 @@
 5. ❌ Closed PR [#9](https://github.com/codeSTACKr/nft-landing-page/pull/9) in [codeSTACKr/nft-landing-page](https://github.com/codeSTACKr/nft-landing-page) -->
 <!--END_SECTION:activity-->
 
-</details> -->
+<!-- </details> --> -->
 
 <!-- <details>
   <summary>:zap: GitHub Stats</summary>
