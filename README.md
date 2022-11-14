@@ -4,7 +4,14 @@
 
 I'm a self-taught JavaScript developer. I'm trying to learn the MERN stack. I'm a fast learner.
 
-Skills: HTML / CSS / JAVASCRIPT / REACT / NODE / REACT / EXPRESS / MONGODB
+Skills: HTML / CSS / JAVASCRIPT / REACT / NODE / REACT / EXPRESS / MongoDB
+
+- 🔭 I’m currently working on building some good fullstack projects 
+- 🌱 I’m currently learning the MERN stack 
+- 🤔 I’m looking for help with a front-end developer job 
+- 💬 Ask me about an interview 
+- 📫 How to reach me: muntashir.wahid@yahoo.com 
+- ⚡ Fun fact: I love to write JavaScript code 
 
 ## My GitHub Stats
 
