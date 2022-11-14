@@ -1,10 +1,10 @@
-### Hi there 👋,I'm Muntashir Wahid
-#### I'm a self taught front-end web developer
-![I'm a self taught front-end web developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+### Hi there 👋, my name is Muntashir Wahid
+#### I am a front-end web developer
+![I am a front-end web developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I'm a self-taught JavaScript developer. I'm trying to learn the MERN stack. I'm a fast learner.
 
-Skills: REACT / JS / HTML / CSS / Node.js / express.js / MongoDB
+Skills: HTML / CSS / JAVASCRIPT / REACT / NODE / REACT / EXPRESS / MONGODB
 
 ## My GitHub Stats
 
