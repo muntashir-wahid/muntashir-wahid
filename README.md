@@ -1,4 +1,4 @@
-### Hi there 👋, Muntashir Wahid
+### Hi there 👋,I'm Muntashir Wahid
 #### I'm a self taught front-end web developer
 ![I'm a self taught front-end web developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
