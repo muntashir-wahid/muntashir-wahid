@@ -1,6 +1,7 @@
-### Hi there 👋, my name is Muntashir Wahid
-#### I am a front-end web developer
 ![I am a front-end web developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+# Hi there 👋, my name is Muntashir Wahid
+### I am a front-end web developer
+
 
 I'm a self-taught JavaScript developer. I'm trying to learn the MERN stack. I'm a fast learner.
 
