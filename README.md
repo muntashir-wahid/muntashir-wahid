@@ -1,4 +1,4 @@
-![I am a front-end web developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a front-end web developer](https://raw.githubusercontent.com/muntashir-wahid/muntashir-wahid/master/img/deno-light.svg)
 # Hi there 👋, my name is Muntashir Wahid
 ### I am a front-end web developer
 
