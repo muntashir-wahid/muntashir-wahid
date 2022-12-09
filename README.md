@@ -12,7 +12,7 @@ Skills: HTML / CSS / JAVASCRIPT / REACT / NODE / REACT / EXPRESS / MongoDB
 - 🤔 I’m looking for a front-end developer job 
 - 💬 Ask me about an interview 
 - 📫 How to reach me: muntashir.wahid@yahoo.com 
-- ⚡ Fun fact: I love to write JavaScript code 
+- ⚡ Fun fact: Coding releases dopamine in my brain. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/muntashir-wahid)  
