@@ -23,8 +23,8 @@ Skills: HTML / CSS / JAVASCRIPT / REACT / NODE / REACT / EXPRESS / MongoDB
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=muntashir-wahid&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=muntashir-wahid)  
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=muntashir-wahid)   -->
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?username=muntashir-wahid)  
+<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?username=muntashir-wahid)   -->
 
 ![Profile views](https://gpvc.arturio.dev/muntashir-wahid)  
