@@ -1,30 +1,87 @@
-![I am a front-end web developer](https://raw.githubusercontent.com/muntashir-wahid/muntashir-wahid/master/img/banner.png)
-# Hi there 👋, my name is Muntashir Wahid
-### I am a front-end web developer
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/muntashir-wahid/muntashir-wahid/master/img/banner.png" alt="Muntashir Wahid Banner"/>
+</p>
 
+<h1 align="center">Hi 👋, I'm Muntashir Wahid</h1>
+<h3 align="center">Frontend Engineer | Fullstack Builder | 3D Web Enthusiast</h3>
 
-I'm a self-taught JavaScript developer. I'm trying to learn the MERN stack. I'm a fast learner.
+---
 
-Skills: HTML / CSS / JAVASCRIPT / REACT / NODE / REACT / EXPRESS / MongoDB
+## 🚀 About Me
 
-- 🔭 I’m currently working on building some good fullstack projects 
-- 🌱 I’m currently learning the MERN stack 
-- 🤔 I’m looking for a front-end developer job 
-- 💬 Ask me about an interview 
-- 📫 How to reach me: muntashir.wahid@yahoo.com 
-- ⚡ Fun fact: Coding releases dopamine in my brain. 
+I'm a self-taught JavaScript engineer focused on building **production-grade full-stack applications**.
 
+Currently:
+- 🧠 Mastering system-level thinking (frontend + backend architecture)
+- 🏗 Building real-world SaaS products
+- 🎯 Preparing for high-quality frontend / full-stack roles
+- 🌍 Exploring advanced 3D web development with Three.js
 
-<!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/muntashir-wahid)   -->
+I care about writing clean architecture, scalable systems, and performant UIs.
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=muntashir-wahid)](https://github.com/ryo-ma/github-profile-trophy) -->
+---
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muntashir-wahid)](https://github.com/anuraghazra/github-readme-stats) -->
+## 🛠 Tech Stack
 
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=muntashir-wahid&show_icons=true)   -->
+### 💻 Frontend
+- HTML5
+- CSS3 / Tailwind CSS
+- JavaScript (ES6+)
+- React.js
+- Next.js
+- Three.js
 
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=muntashir-wahid)   -->
+### 🧠 Backend
+- Node.js
+- Express.js
+- MongoDB
+- PostgreSQL
+- Prisma
+- REST APIs
 
-<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?username=muntashir-wahid)   -->
+### ⚙️ Tools & Workflow
+- Git & GitHub
+- VS Code
+- Figma (basic UI understanding)
+- Postman
+- Linux (basic)
 
-![Profile views](https://gpvc.arturio.dev/muntashir-wahid)  
+---
+
+## 📈 What I'm Working On
+
+- 🔭 Building full-stack SaaS projects
+- 🧩 Learning advanced backend architecture
+- 🎮 Practicing 3D systems & graphics fundamentals
+- 📚 Studying networking & system design fundamentals
+
+---
+
+## 🎯 2026 Goals
+
+- Build a complete SaaS product with authentication, payments & RBAC
+- Master Three.js to create interactive product-level 3D experiences
+- Get a strong frontend/full-stack engineering role
+- Contribute to open source
+
+---
+
+## 📬 Connect With Me
+
+- 📧 Email: muntashir.wahid@yahoo.com
+- 💼 LinkedIn: https://www.linkedin.com/in/muntashir-wahid/
+- 🌐 Portfolio: https://muntashir.vercel.app/
+
+---
+
+## ⚡ Fun Fact
+
+Coding doesn’t just release dopamine —  
+It gives me clarity.
+
+---
+
+<p align="center">
+  <img src="https://gpvc.arturio.dev/muntashir-wahid" alt="Profile views"/>
+</p>
