@@ -79,9 +79,3 @@ I care about writing clean architecture, scalable systems, and performant UIs.
 
 Coding doesn’t just release dopamine —  
 It gives me clarity.
-
----
-
-<p align="center">
-  <img src="https://gpvc.arturio.dev/muntashir-wahid" alt="Profile views"/>
-</p>
